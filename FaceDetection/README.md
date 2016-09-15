@@ -1,3 +1,3 @@
-##cmake CMakeLists.txt
-##make 
-##../detectF imagePath ModelPath
+#cmake CMakeLists.txt
+#make 
+##./detectF imagePath ModelPath
