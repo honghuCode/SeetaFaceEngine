@@ -1,3 +1,4 @@
-#cmake CMakeLists.txt
-#make 
-##./detectF imagePath ModelPath
+#SeetaFaceEngine   FaceDetection Linux version!
+##cmake CMakeLists.txt
+##make 
+###./detectF imagePath ModelPath
